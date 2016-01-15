@@ -1,3 +1,5 @@
 This is a test file
 Now this file is updated!
 Merge worked!
+
+Making my changes to the Exercise 3. 
