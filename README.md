@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-# James
-=======
-# VersionControl
-This is a version Control Test for CSC 517
->>>>>>> origin/atyagi2
+Repo was used in Spring 2016 for CSC 517 Git Exercise for students
